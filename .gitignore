@@ -1,0 +1,5 @@
+venv/
+deprecated/
+intermittent_depth_maps/
+__pycache__/
+depth_model_checkpoint.pth
